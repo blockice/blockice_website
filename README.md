@@ -1,1 +1,3 @@
-# blockice_website
+# Blockice_website
+
+## About us
